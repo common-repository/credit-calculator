@@ -1,0 +1,1 @@
+<a href="http://sunidea.ru/">sunidea.ru</a><div id="tabs">	%tabs%</div><br/><div id="credit_calculator_result_divs" class="ui-widget ui-widget-content ui-corner-all">	%result_divs%</div>
